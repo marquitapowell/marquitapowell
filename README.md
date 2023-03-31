@@ -3,8 +3,6 @@ Hi I am Marquita Powell, I am seeking a business analysis position where my anal
 
 
 
-Skills: VUE JS / REACT / JS / HTML / CSS
-
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Power BI | SQL | Excel | Python 
 

@@ -1,9 +1,7 @@
 ### Hi there 👋
 Hi I am Marquita Powell, I am seeking a business analysis position where my analysis and solid database management knowledge will contribute to a company’s success.
 
-### Hi there 👋, Marquita Powell 
-#### Business Analyst
-![Business Analyst](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 
 Hi I am Marquita Powell, I am seeking a business analysis position where my analysis and solid database management knowledge will contribute to a company’s success.
 
